@@ -36,9 +36,9 @@ Comparing the NTL radiance restored for Tacloban, Ormoc, and Guian, places in cl
 Could NTL data reflect the actual on-ground "resiliency" of these locations or are these observations inherently biased and just a mere coincidence?
 
 References:
-[1] https://en.wikipedia.org/wiki/Typhoon_Haiyan
+- [1] https://en.wikipedia.org/wiki/Typhoon_Haiyan
 
 Related Literature:
-[2] Jean, N., Burke, M., Xie, M., Davis, W. M., Lobell, D. B., & Ermon, S. (2016). Combining satellite imagery and machine learning to predict poverty. Science, 353(6301), 790–794. https://doi.org/10.1126/science.aaf7894
-[3] Zhao, N., Liu, Y., Hsu, F. C., Samson, E. L., Letu, H., Liang, D., & Cao, G. (2020). Time series analysis of VIIRS-DNB nighttime lights imagery for change detection in urban areas: A case study of devastation in Puerto Rico from hurricanes Irma and Maria. Applied Geography, 120(April), 102222. https://doi.org/10.1016/j.apgeog.2020.102222
-[4] Román MO, Stokes EC, Shrestha R, Wang Z, Schultz L, et al. (2019) Satellite-based assessment of electricity restoration efforts in Puerto Rico after Hurricane Maria. PLOS ONE 14(6): e0218883. https://doi.org/10.1371/journal.pone.0218883
+- [2] Jean, N., Burke, M., Xie, M., Davis, W. M., Lobell, D. B., & Ermon, S. (2016). Combining satellite imagery and machine learning to predict poverty. Science, 353(6301), 790–794. https://doi.org/10.1126/science.aaf7894
+- [3] Zhao, N., Liu, Y., Hsu, F. C., Samson, E. L., Letu, H., Liang, D., & Cao, G. (2020). Time series analysis of VIIRS-DNB nighttime lights imagery for change detection in urban areas: A case study of devastation in Puerto Rico from hurricanes Irma and Maria. Applied Geography, 120(April), 102222. https://doi.org/10.1016/j.apgeog.2020.102222
+- [4] Román MO, Stokes EC, Shrestha R, Wang Z, Schultz L, et al. (2019) Satellite-based assessment of electricity restoration efforts in Puerto Rico after Hurricane Maria. PLOS ONE 14(6): e0218883. https://doi.org/10.1371/journal.pone.0218883
